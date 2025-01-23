@@ -1,2 +1,2 @@
-URP实时MMD渲染demo
+Real-time rendered MMD using URP
 ![img](Preview1.jpg)
